@@ -28,13 +28,10 @@ This project provides a framework for analyzing travel-related data to identify 
 ```bash
 python main.py
 
-The system will:
-
-Clean and preprocess the data
-
-Perform clustering and sentiment analysis
-
-Generate an output CSV with labeled customer segments
+4. The system will:
+-Clean and preprocess the data
+-Perform clustering and sentiment analysis
+-Generate an output CSV with labeled customer segments
 
 🧾 File Overview
 File	Description
