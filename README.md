@@ -30,8 +30,11 @@ python main.py
 ```
 
 4. The system will:
+   
 -Clean and preprocess the data
+
 -Perform clustering and sentiment analysis
+
 -Generate an output CSV with labeled customer segments
 
 🧾 File Overview
